@@ -1,0 +1,1 @@
+Have used both "one vs all" and "one vs one" approach for comparing which is better
